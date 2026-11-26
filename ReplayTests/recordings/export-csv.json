@@ -1,0 +1,8 @@
+{
+  "name": "export-csv",
+  "method": "GET",
+  "path": "/orders/export.csv",
+  "status": 200,
+  "contentType": "text/csv",
+  "body": "OrderId,Customer,PlacedOn,Total,Status\n1001,ACME Ltd,2026-03-14,1249.50,SHIPPED\n1002,Northwind Traders,2026-03-15,89.00,PENDING\n"
+}

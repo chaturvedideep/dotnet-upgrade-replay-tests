@@ -1,0 +1,8 @@
+{
+  "name": "order-not-found",
+  "method": "GET",
+  "path": "/orders/9999",
+  "status": 404,
+  "contentType": "application/json",
+  "body": "{\"error\":\"order_not_found\",\"id\":9999}"
+}

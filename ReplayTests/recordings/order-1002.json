@@ -1,0 +1,8 @@
+{
+  "name": "order-1002",
+  "method": "GET",
+  "path": "/orders/1002",
+  "status": 200,
+  "contentType": "application/json",
+  "body": "{\"id\":1002,\"customer\":\"Northwind Traders\",\"placedOn\":\"2026-03-15T16:05:00Z\",\"total\":89.00,\"status\":\"PENDING\"}"
+}

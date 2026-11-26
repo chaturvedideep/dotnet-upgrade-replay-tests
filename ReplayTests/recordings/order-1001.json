@@ -1,0 +1,8 @@
+{
+  "name": "order-1001",
+  "method": "GET",
+  "path": "/orders/1001",
+  "status": 200,
+  "contentType": "application/json",
+  "body": "{\"id\":1001,\"customer\":\"ACME Ltd\",\"placedOn\":\"2026-03-14T09:30:00Z\",\"total\":1249.50,\"status\":\"SHIPPED\"}"
+}
